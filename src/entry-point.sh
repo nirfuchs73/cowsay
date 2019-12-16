@@ -7,4 +7,4 @@ fi
 export PORT
 echo "PORT="$PORT
 
-PORT=$PORT npm run start
+npm run start
